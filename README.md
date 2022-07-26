@@ -13,7 +13,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/King ys bot (1).png" alt="GIF" width="300" height="270"/>
+<img src="Ys.png" alt="GIF" width="300" height="270"/>
 
 </p>
 
