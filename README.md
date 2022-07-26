@@ -13,19 +13,19 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/King ys bot .png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/THTK67m/King ys bot (1).png" alt="GIF" width="300" height="270"/>
 
 </p>
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KingYS" src="https://img.shields.io/badge/King-YS-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By King YS>| © | Reserved  </br> 
 
 
 1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
@@ -40,7 +40,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`King-YS`](https://github.com/sl-code-herose-officially)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
